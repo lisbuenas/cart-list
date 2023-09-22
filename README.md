@@ -1,3 +1,7 @@
+# Cart React simple
+
+Basic usage of a shopping cart management with react hooks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
